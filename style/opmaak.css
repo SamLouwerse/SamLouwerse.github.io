@@ -1,0 +1,73 @@
+body {
+  background-color: black;
+  font-family: "Open Sans", times new roman;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #00FFD5;
+}
+
+h1{
+  font-size: 36px
+}
+
+h2{
+  font-size: 30px
+}
+
+h3{
+  font-size: 23px
+}
+
+h1, h2, h3{
+  border: 3px solid;
+  border-radius: 20px;
+  background-color: #878787;
+  font-family: "Merriweather", serif;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  font-size: 16px;
+}
+
+img{
+  border:4px outset #7d7d7d ;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.prijslijst td{
+    border: 6px outset silver;
+    color: #00FFD5
+   }
+
+.prijslijst{
+  border: 6px outset silver;
+  color: #00FFD5;
+}
+
+.prijslijst {
+  border: 6px outset silver;
+  color: #00FFD5;
+}
+
+ul li{
+  display: inline;
+  border: #7d7d7d 2px solid;
+  margin: 2px ;
+}
+
+ul li{
+  display: inline;
+  border: #00FFD5 2px solid;
+  padding: 5px;
+  background:#878787;
+}
