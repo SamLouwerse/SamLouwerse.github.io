@@ -71,3 +71,16 @@ ul li{
   padding: 5px;
   background:#878787;
 }
+
+p.vraag{
+
+}
+
+p.antwoord{
+  color:  #878787;
+  background-color: #878787;
+}
+
+.antwoord:hover{
+  color: #00FFD5;
+}
