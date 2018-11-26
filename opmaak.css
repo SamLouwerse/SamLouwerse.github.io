@@ -61,11 +61,10 @@ nav{
 
 .badges{
   /* margin-left: 60%; */
-  float: right;
+  float: left;
 }
 
 #badges{
-  /* margin-left: 60%; */
   float: left;
   margin: 10px;
 }
@@ -112,4 +111,19 @@ li a:hover:not(.active) {
 
 .active {
     background-color: #4CAF50;
+}
+
+footer{
+  position:fixed;
+  bottom: 0px;
+  background-color: white;
+}
+
+#metis {
+  margin-left: 16%;
+}
+
+.paginatitel{
+  margin-top: 3px;
+  margin-bottom: 2px;
 }
